@@ -1,5 +1,5 @@
 print("hello")
-a=10
-b=5
-c=(a+b)
+a=int(10)
+b=int(5)
+c=int(a+b)
 print("sum is",c)
